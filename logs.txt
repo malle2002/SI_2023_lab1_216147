@@ -1,0 +1,36 @@
+commit 9ce519fd0c48158234bc6f686aa36689d105b4ca (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: malle2002 <93403675+malle2002@users.noreply.github.com>
+Date:   Wed Mar 22 23:08:16 2023 +0100
+
+    Fix method in sumEvenNumbers
+
+commit 145edb86d19792a8217e51893e3928c97a1df194
+Merge: 8b63389 ed11a7a
+Author: malle2002 <93403675+malle2002@users.noreply.github.com>
+Date:   Wed Mar 22 23:11:10 2023 +0100
+
+    Merge branch 'bug2'
+
+commit ed11a7a106bf5f16b7a3e79fe53e5d58d043a648 (origin/bug2, bug2)
+Author: malle2002 <93403675+malle2002@users.noreply.github.com>
+Date:   Wed Mar 22 23:07:15 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 8b6338962032367d296baa283fb1eee1b4b8d32d (origin/bug1, bug1)
+Author: malle2002 <93403675+malle2002@users.noreply.github.com>
+Date:   Wed Mar 22 23:06:08 2023 +0100
+
+    Fix wrong loop for reading
+
+commit 5669bc6d97cfdd5ba240b08f655522ea2691f94d
+Author: malle2002 <93403675+malle2002@users.noreply.github.com>
+Date:   Wed Mar 22 23:02:16 2023 +0100
+
+    Add java class
+
+commit be814af900caf75543249ff00d3ff1a55192a71c
+Author: malle2002 <93403675+malle2002@users.noreply.github.com>
+Date:   Wed Mar 22 23:00:13 2023 +0100
+
+    Initial commit

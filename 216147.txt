@@ -1,0 +1,38 @@
+3.  Се креира remote репозиториум на Github
+4.  Се прави локален директориум и со git bash го иницијализираме истиот
+5.  Го поврзуваме локалниот со remote со командата git remote add origin https://github.com/malle2002/SI_2023_lab1_216147.git
+6.  git status покажува дека Readme.md ние и е во Untracked со git add *.md ги додаваме md фајловите во Staged и правиме commit со git commit -m "Initial commit"
+7.  git add *.java  -> git commit -m "Add java class"
+8.  git push origin master со оваа команда ние го синхронизираме remote репозиториум со локалниот
+9.  git branch bug1 - git branch bug2 - git branch bug3
+10. git checkout bug1
+11. Се прави промена на file-от и git add .  - git commit -m "Fix wrong loop for reading"
+12. git checkout bug2
+13. git add . - git commit -m "Fix wrong condition in filterOddNumbers"
+14. git checkout bug3
+15. git add . - git commit -m "Fix method in sumEvenNumbers"
+16. git push origin bug1 - git push origin bug2 - git push origin bug3
+17. git checkout master
+18. git merge bug1 
+19. git push origin master
+20. git merge bug2 овде се појавува prompt да објасниме зошто merge-от е неопходен
+21. git push origin master
+22. git checkout bug3
+23. git rebase master
+24. git checkout master
+25. git merge bug3
+26. git push origin master - git push --force origin bug3
+27. git checkout master - git log - git add *.txt - git commit -m "Final commit"
+
+
+
+
+
+
+
+
+
+
+
+
+
